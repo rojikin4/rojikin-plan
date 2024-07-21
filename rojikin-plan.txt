@@ -1,0 +1,6 @@
+rojikin plan
+-belajar laravel
+-belajar pakai github
+-belajar pemrograman mikrokontroler visual studi code
+-belajar pakai kicad
+-belajar platform I/O
